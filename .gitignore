@@ -1,0 +1,4 @@
+.idea/
+cmake-build-*/
+
+# gsrc/ should be usually gitignored, but for the example showcase I left it
